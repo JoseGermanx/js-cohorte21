@@ -12,7 +12,7 @@ function Student(nombre, rut, edad, activo) {
     }
 }
 
-const student1 = new Student("Luis", "1234567-8", 25, true)
+const student1 = new Student("Luis", "1234567-8", 25, true) // instanciar
 
 const student2 = new Student("Alberto", "12231234-8", 20, false)
 
